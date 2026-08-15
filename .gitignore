@@ -1,0 +1,5 @@
+# Source archive, not part of the published artifact
+*.zip
+
+# Local agent/session state
+.claude/
