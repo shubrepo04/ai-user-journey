@@ -3,3 +3,4 @@
 
 # Local agent/session state
 .claude/
+memory/
